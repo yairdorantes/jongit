@@ -1,0 +1,92 @@
+commit e35bf3201a45f880afde59bd3fb3dcc31ec985b5
+Author: yair <yairmasterlol@gmail.com>
+Date:   Fri Nov 11 18:47:33 2022 -0600
+
+    nuevo mensaje para el último commit
+
+commit 3d4bdcd76a4c6d3b60a54001ea0d45921556dca8
+Merge: a334c80 4e9d65e
+Author: yair <yairmasterlol@gmail.com>
+Date:   Fri Nov 11 18:29:12 2022 -0600
+
+    Merge branch 'html'
+
+commit 4e9d65e7e2306cc3fdfa6af72afaaaaf372b0c35
+Author: yair <yairmasterlol@gmail.com>
+Date:   Fri Nov 11 18:28:41 2022 -0600
+
+    adding js
+
+commit a334c80679d7c6c2889d78032b1d3130bb315449
+Author: yair <yairmasterlol@gmail.com>
+Date:   Fri Nov 11 18:27:27 2022 -0600
+
+    adding csss to html
+
+commit 640b48d3850a54fb8d8b609d960d493ddf3cdc81
+Merge: 22b234c bbeb8c6
+Author: yair <yairmasterlol@gmail.com>
+Date:   Fri Nov 11 17:42:05 2022 -0600
+
+    Merge branch 'css'
+
+commit 22b234c1de31a7520f5969dc7875680c14390edf
+Merge: fd5ec46 6eedb8e
+Author: yair <yairmasterlol@gmail.com>
+Date:   Fri Nov 11 17:41:57 2022 -0600
+
+    a
+
+commit fd5ec4651a0b25fb95f3dc614d8ae65f7814fce2
+Author: yair <yairmasterlol@gmail.com>
+Date:   Thu Nov 10 21:45:52 2022 -0600
+
+    js
+
+commit bbeb8c6a7b474ba8e3fa83adb307ba203e397eb4
+Author: yair <yairmasterlol@gmail.com>
+Date:   Thu Nov 10 21:43:37 2022 -0600
+
+    style
+
+commit 111d92c76fb86e110899cb2383a6516dd1853fda
+Author: yair <yairmasterlol@gmail.com>
+Date:   Thu Nov 10 21:41:59 2022 -0600
+
+    css created
+
+commit 6eedb8e33fa548a30499408d1e9ebf8d57eb7bf1
+Author: yair <yairmasterlol@gmail.com>
+Date:   Thu Nov 10 21:38:54 2022 -0600
+
+    html created
+
+commit 386c6ec8c98f81c2fc6d90d14f828830f30fb18c
+Author: yair <yairmasterlol@gmail.com>
+Date:   Thu Nov 10 21:25:47 2022 -0600
+
+    ignoring exe
+
+commit 6849d6768530259d73fe2af7b62f32dc3fc2ad78
+Author: Yair Dorantes <52080114+yairdorantes@users.noreply.github.com>
+Date:   Thu Nov 10 20:27:11 2022 -0600
+
+    created licence
+
+commit 76c32bac2f42d83e27cae93f1b6c194c72ff41e8
+Author: yair <yairmasterlol@gmail.com>
+Date:   Thu Nov 10 20:22:25 2022 -0600
+
+    second
+
+commit 791a423db6fd80709081f298dff10c1c0470e1a1
+Author: yair <yairmasterlol@gmail.com>
+Date:   Thu Nov 10 20:15:29 2022 -0600
+
+    first
+
+commit 694fd559915f9b2650149a9754b8db9ba7a67636
+Author: yair <yairmasterlol@gmail.com>
+Date:   Thu Nov 10 20:15:03 2022 -0600
+
+    primer commit
